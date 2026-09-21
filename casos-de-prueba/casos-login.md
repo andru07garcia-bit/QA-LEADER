@@ -1,9 +1,9 @@
 CP LOGIN 001 - INICIO DE CESION EXITOSO.
-MODULO: Inicio de cesión 
-PRIPRIDAD: Alta. 
-PRECONDICION: Existe un usuario registrado y activo. 
-DATOS DE PUREBA.
-CORREO: Cami.agila@gmail.com
-CONTRASEÑA: Camiagila26
-RESULTADO ESPERADO
-El sistema debería iniciar cesión de manera correcta, se traslada al usuario directamente a la pagina principal del sitio Web, en la pagina deberá aparecer información personal, residencia, nombre, celular, edad, sexo, con información de su plan y beneficios. 
+Modulo: Inicio de cesión 
+Prioridad: Alta. 
+Recomendacion: Existe un usuario registrado y activo. 
+Datos de Prueba:
+Correo: Cami.agila@gmail.com
+Contraseña: Camiagila26
+Resultado Esperado: 
+El sistema permite iniciar sesión y redirige al usuario a su página principal o panel de usuario. 
