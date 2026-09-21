@@ -9,6 +9,6 @@ Pasos:
 Abrir pagina Web. 
 Ingresar correo electronico. 
 Ingresar contraseña. 
-Seleccionar botón de inicio de sesión. 
+Seleccionar el botón Iniciar sesión. 
 Resultado Esperado: 
 El sistema permite iniciar sesión y redirige al usuario a su página principal o panel de usuario. 
