@@ -5,4 +5,4 @@ Resultado: Aprobado
 Evidencia: 
 Se ingresaron credenciales de prueba válidas y el sistema permitió el acceso al panel principal del usuario.
 Archivos Relacionados: 
-Captura: login-exitoso.png
+Captura: <img width="1416" height="883" alt="Captura de pantalla 2026-09-21 140448" src="https://github.com/user-attachments/assets/cf43611f-d719-4101-9bcb-df82e9d17a8e" />
